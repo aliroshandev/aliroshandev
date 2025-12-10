@@ -6,7 +6,7 @@
 - Feel free to call me Ali Roshan.
 - Real fan of "Asta" MC in "Black Clover" anime and his "Never Give UP" mindset.
 - Front-End Engineer with 7+ years hands on experience in (Next, React, Angular, Vue, Node js, Express, Nest) Angular Focused.
-- Contact me to talk about any kind of negotiation such as anime names, work skills, job opportunities, coffee, ... 
+- Contact me to talk about any kind of negotiation such as anime names, work skills, job opportunities, coffee and etc.
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/ali-roshan">
