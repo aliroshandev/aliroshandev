@@ -1,12 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I%27m%20Ali%20Roshanzamir&reversal=false&animation=twinkling&fontColor=111111&descSize=10" />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I%27m%20Ali%20Roshanzamir&reversal=false&animation=twinkling&fontColor=111111&descSize=10" />
 
-## 🚀 About Me
-[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=4000&pause=1000&lines=Front-End+Engineer;TypeScript+|+JavaScript+Developer;React/Angular+Developer)](https://git.io/typing-svg)
-
-- Feel free to call me Ali Roshan.
-- Real fan of "Asta" MC in "Black Clover" anime and his "Never Give UP" mindset.
-- Front-End Engineer with 7+ years hands on experience in (Next, React, Angular, Vue, Node js, Express, Nest) Angular Focused.
-- Contact me to talk about any kind of negotiation such as anime names, work skills, job opportunities, coffee and etc.
+<img src="https://readme-typing-svg.demolab.com/?duration=4000&pause=1000&center=true&vCenter=true&lines=Front-End+Engineer;TypeScript+|+JavaScript+Developer;React/Angular+Developer" alt="Typing SVG" />
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/ali-roshan">
@@ -19,6 +14,14 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+</div>
+
+## 🚀 About Me
+
+- Feel free to call me Ali Roshan.
+- Real fan of "Asta" MC in "Black Clover" anime and his "Never Give UP" mindset.
+- Front-End Engineer with 7+ years hands on experience in (Next, React, Angular, Vue, Node js, Express, Nest) Angular Focused.
+- Contact me to talk about any kind of negotiation such as anime names, work skills, job opportunities, coffee and etc.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aliroshandev&label=Profile%20Views&color=0e75b6&labelColor=0e75b6&style=for-the-badge" alt="Profile Views" />
