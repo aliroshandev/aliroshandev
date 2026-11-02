@@ -73,13 +73,13 @@ Real fan of **Asta** from *Black Clover* — that "Never Give Up" mindset drives
 
 | Company | Role | Period |
 |---------|------|--------|
-| **[Tabin Tech](https://tabintech.com)** — Technology Solutions Provider | Frontend Engineer | 01/2022 — Present |
-| **[Agatizer](https://agatizer.com)** — Copy Trading | Frontend Engineer, Contract | 08/2021 — 12/2021 |
+| **[Tabin Tech](https://tabintech.com)** — Software Services for Online Businesses | Frontend Engineer | 01/2022 — Present |
+| **Agatizer** — Copy Trading | Frontend Engineer, Contract | 08/2021 — 12/2021 |
 | **[Tushehbar](https://tushehbar.com)** — Shipping & Maritime | Frontend Engineer, Part-time | 11/2020 — 10/2021 |
 | **[Missha](https://missha-ir.com)** — E-Commerce | Frontend Engineer, Part-time | 10/2020 — 02/2021 |
-| **[Azki](https://azki.com)** — Insurance | Frontend Consultant | 09/2020 — 10/2020 |
 | **[eSafar](https://esafar.com)** — Online Travel Booking | Frontend Developer, then Engineer | 05/2020 — 08/2020, 10/2021 — 01/2022 |
-| **[Shenoto](https://shenoto.com)** — Persian Podcast Platform | Frontend Developer | 09/2018 — 05/2020 |
+| **[Azki](https://azki.com)** — Online Insurance Comparison | Frontend Consultant, Part-time | 09/2019 — 11/2019 |
+| **[Shenoto](https://shenoto.com)** — Podcast Platform | Frontend Developer | 09/2018 — 05/2020 |
 
 ## 📈 GitHub Streak
 
