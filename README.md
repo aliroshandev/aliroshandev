@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-Software engineer with **8 years** of paid frontend work in Angular and TypeScript, now also building Go backends with PostgreSQL and Docker. I work on Angular client applications and shared libraries at Tabin Tech, and I build my own Go and MQL5 projects outside work.
+Software engineer with **8 years** of paid experience building web applications, mainly in Angular and TypeScript. I also build backend services in Go and PostgreSQL. I work on Angular client applications and shared libraries at Tabin Tech, and I build my own Go and MQL5 projects outside work.
 
 Real fan of **Asta** from *Black Clover* — that "Never Give Up" mindset drives everything I build.
 
