@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-Frontend Architect with **7+ years** building performance-critical web solutions for finance, logistics, and e-commerce. Delivered **10+ enterprise applications** boosting engagement by **30%** and reducing latency by **20%** through optimized React/Angular architectures. Pioneered reusable component systems accelerating development by **30%** and cutting bundle sizes by **40%**. Mentored **8+ engineers**.
+Software engineer with **8 years** of paid frontend work in Angular and TypeScript, now also building Go backends with PostgreSQL and Docker. I work on Angular client applications and shared libraries at Tabin Tech, and I build my own Go and MQL5 projects outside work.
 
 Real fan of **Asta** from *Black Clover* — that "Never Give Up" mindset drives everything I build.
 
@@ -32,14 +32,6 @@ Real fan of **Asta** from *Black Clover* — that "Never Give Up" mindset drives
   </a>
   <img src="https://img.shields.io/github/stars/aliroshandev?label=Total%20Stars&style=for-the-badge&color=yellow&logo=star&logoColor=white" alt="Total Stars" />
 </p>
-
-## 📊 Impact Highlights
-
-| | |
-|---|---|
-| **7+** Years Experience | **10+** Enterprise Projects Delivered |
-| **8+** Engineers Mentored | **30%** Avg. Engagement Boost |
-| **40%** Bundle Size Reduction | **20%** Latency Reduction |
 
 ## 🛠️ Tech Stack
 
@@ -81,13 +73,13 @@ Real fan of **Asta** from *Black Clover* — that "Never Give Up" mindset drives
 
 | Company | Role | Period |
 |---------|------|--------|
-| **[TabinTech](https://tabintech.com)** — Technology Solutions Provider | Frontend Engineer | 06/2022 — Present |
-| **[Agatizer](https://missha-ir.com)** — Social Trading | Frontend Engineer | 08/2020 — 05/2022 |
-| **[Missha](https://missha-ir.com)** — Global E-Commerce | Frontend Engineer | 08/2020 — 05/2022 |
-| **[Tushehbar](https://tushehbar.com)** — Shipping & Maritime | Frontend Engineer | 09/2020 — 01/2021 |
-| **[eSafar](https://esafar.com)** — Online Travel Booking | Frontend Engineer | 09/2019 — 01/2020 |
-| **[Azki](https://azki.com)** — Insurance Issuer | Frontend Consultant | 09/2019 — 01/2020 |
-| **[Shenoto](https://shenoto.com)** — Persian Podcast Platform | Frontend Engineer | 09/2018 — 03/2020 |
+| **[Tabin Tech](https://tabintech.com)** — Technology Solutions Provider | Frontend Engineer | 01/2022 — Present |
+| **[Agatizer](https://agatizer.com)** — Copy Trading | Frontend Engineer, Contract | 08/2021 — 12/2021 |
+| **[Tushehbar](https://tushehbar.com)** — Shipping & Maritime | Frontend Engineer, Part-time | 11/2020 — 10/2021 |
+| **[Missha](https://missha-ir.com)** — E-Commerce | Frontend Engineer, Part-time | 10/2020 — 02/2021 |
+| **[Azki](https://azki.com)** — Insurance | Frontend Consultant | 09/2020 — 10/2020 |
+| **[eSafar](https://esafar.com)** — Online Travel Booking | Frontend Developer, then Engineer | 05/2020 — 08/2020, 10/2021 — 01/2022 |
+| **[Shenoto](https://shenoto.com)** — Persian Podcast Platform | Frontend Developer | 09/2018 — 05/2020 |
 
 ## 📈 GitHub Streak
 
@@ -98,7 +90,7 @@ Real fan of **Asta** from *Black Clover* — that "Never Give Up" mindset drives
 ## 📌 Featured Project
 
 ### [Portfolio v2](https://github.com/aliroshandev/portfolio)
-Built with **Angular v20** — my personal portfolio showcasing projects, experience, and skills. SSR-enabled, fully responsive, dark mode.
+Built with **Angular v22** — my personal portfolio showcasing projects, experience, and skills. SSR-enabled, fully responsive, dark mode.
 
 ### [Angular Lazy Load Directive](https://github.com/aliroshandev/angular-lazy-load-directive)
 Performant image lazy loading directive for Angular applications with Intersection Observer API.
